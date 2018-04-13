@@ -1,21 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package p01_Distancia.test;
 
-/**
- *
- * @author gustavo
- */
+import p01_Distancia.dominio.Punto;
+
 public class TestPunto {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Punto miPunto = new Punto(3, 5);
+        Punto otroPunto = new Punto(7, 1);
+        
+        System.out.println("distacia: "+miPunto.CalcularDistancia(otroPunto));
     }
     
 }
