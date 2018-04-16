@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package p01_Distancia.dominio;
+package Punto_01.dominio;
 
 /**
  *
