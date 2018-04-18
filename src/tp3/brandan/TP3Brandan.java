@@ -29,7 +29,7 @@ public class TP3Brandan {
      int op=1;  
      while((op>=1)&&(op<=12)){  
         
-     System.out.println("===========TP3 Gonzalo Brandan- Puntos===============================================");
+     System.out.println("===========TP3 Gonzalo Brandan Gonzalo- Puntos===============================================");
      System.out.println("         '1'-Punto 1 - Distancia-Clase punto ");
      System.out.println("         '2'-Punto 2 - Rectangulo ");
      System.out.println("         '3'-Punto 3 - Triangulo ");
